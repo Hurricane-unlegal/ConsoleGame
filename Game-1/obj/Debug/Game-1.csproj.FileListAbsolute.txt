@@ -1,0 +1,7 @@
+C:\Users\ПАВЭЛ БЛЭД\source\repos\Game-1\Game-1\bin\Debug\Game-1.exe.config
+C:\Users\ПАВЭЛ БЛЭД\source\repos\Game-1\Game-1\bin\Debug\Game-1.exe
+C:\Users\ПАВЭЛ БЛЭД\source\repos\Game-1\Game-1\bin\Debug\Game-1.pdb
+C:\Users\ПАВЭЛ БЛЭД\source\repos\Game-1\Game-1\obj\Debug\Game-1.csprojAssemblyReference.cache
+C:\Users\ПАВЭЛ БЛЭД\source\repos\Game-1\Game-1\obj\Debug\Game-1.csproj.CoreCompileInputs.cache
+C:\Users\ПАВЭЛ БЛЭД\source\repos\Game-1\Game-1\obj\Debug\Game-1.exe
+C:\Users\ПАВЭЛ БЛЭД\source\repos\Game-1\Game-1\obj\Debug\Game-1.pdb
